@@ -1,1 +1,2 @@
 Hosting World is a website built using HTML, CSS, and an animation library, designed to provide a visually appealing experience. The website is optimized and compatible only for desktop devices, ensuring a smooth layout and interactive animations on larger screens. It includes dynamic content and animation effects to enhance the overall user experience, though it is not currently optimized for mobile or tablet devices.
+For experience:https://hosting-world.netlify.app/ (only for desktop)
